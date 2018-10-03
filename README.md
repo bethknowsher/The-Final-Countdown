@@ -1,8 +1,4 @@
 # The-Final-Countdown
-<html>
-<div id="timer">
-  <span id="days"></span>days
-  <span id="hours"></span>hours
-  <span id="minutes"></span>minutes
-  <span id="seconds"></span>seconds
-</div>
+
+Use of HTML, CSS, and JavaScript for a basic countdown timer.
+Chose Christmas day as the target date.
