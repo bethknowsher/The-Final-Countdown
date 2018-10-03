@@ -1,0 +1,22 @@
+body {
+  background: #117518;
+  text-align: center;
+}
+.header {
+  color: #BB0808;
+}
+#timer {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  color: #BB0808;
+  letter-spacing: -1px;
+}
+#timer span {
+  font-size: 100px;
+  color: #FFFFF;
+  margin: 3px 3px 0 15px;
+}
+#timer span:first-child {
+  margin-left: 0;
+}
+  
